@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://yourwebsite.com/docs
+    about: Find detailed information about how to use the plugin.
+  - name: Support Email
+    url: mailto:support@yourplugin.com
+    about: Contact us for urgent support.
